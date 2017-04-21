@@ -17,7 +17,6 @@
   <ItemGroup>
     <None Include="LaserTripwire.ino" />
     <None Include="src\_micro-api\libraries\LaserTripwireLib\library.properties" />
-    <None Include="ClassDiagram.cd" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\_micro-api\libraries\LaserTripwireLib\src\LaserTripwireLib.cpp">
